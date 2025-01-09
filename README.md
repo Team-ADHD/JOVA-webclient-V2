@@ -1,4 +1,4 @@
-# JOVA - client
+# JOVA - webclient - V2
 
 ## 프로젝트
 
@@ -15,5 +15,4 @@ React.js + TypeScript + Vite
 
 ## 프로젝트 개발
 
-완료
-# JOVA-webclient-V2
+현제 진행중
