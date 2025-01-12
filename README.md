@@ -15,4 +15,4 @@ React.js + TypeScript + Vite
 
 ## 프로젝트 개발
 
-현제 진행중
+현재 V2 개발 진행중 진행중
