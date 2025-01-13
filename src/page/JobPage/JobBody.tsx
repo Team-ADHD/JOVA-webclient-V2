@@ -113,8 +113,7 @@ const JobBody = () => {
     go("/jobnotion");
   };
 
-  // 역순으로 정렬된 데이터를 기준으로 현재 페이지에 맞는 항목 가져오기
-  const sortedData = data?.slice().reverse(); // 원본 데이터 유지
+  const sortedData = data?.slice().reverse();
   const startIdx = (currentPage - 1) * itemsPerPage;
   const currentPageData = sortedData?.slice(startIdx, startIdx + itemsPerPage);
 
