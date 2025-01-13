@@ -11,12 +11,12 @@ const GlobalStyle = createGlobalStyle`
     body {
         margin: 0;
         padding: 0;
-        font-family: 'Pretendard-Regular', sans-serif; /* 기본 폰트 설정 */
+        font-family: 'Pretendard-Regular', sans-serif; 
         font-size: 16px;
         color: #333;
     }
     
-    h1, h2, h3, h4, h5, h6, p, a {
+    h1, h2, h3, h4, h5, h6, p, a, div {
         margin:0;
         padding:0;
     }
