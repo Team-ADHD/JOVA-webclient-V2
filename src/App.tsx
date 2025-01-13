@@ -4,7 +4,7 @@ import Notion from "./page/Notion/Notion";
 import Profil from "./page/Profil/profil";
 import JobVa from "./page/JobPage/JobVaPage";
 import Detail from "./page/Detail/Detail";
-import GlobalStyle from "./fonts/GlobalStyle";
+import GlobalStyle from "./style/GlobalStyle";
 import Notification from "./page/Notion/notification/Notification";
 import JobNotion from "./page/JobPage/JobNotion/JobNotion";
 import ProfilCorrection from "./page/Profil/profilcorrection/ProfilCorrection";
